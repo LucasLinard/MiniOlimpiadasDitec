@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unidades_array">
+        <item>DIAGE e UAG</item>
+        <item>GECAP 1 e GECAP 4</item>
+        <item>GECAP 2 e GECAP 3</item>
+        <item>GECAP 5</item>
+        <item>GECAPSP e GETINs</item>
+        <item>GECIN</item>
+        <item>GECIS</item>
+        <item>GESAT, GEINT, GEDAT e GPRED</item>
+        <item>GESIT</item>
+        <item>GPROM</item>
+        <item>GSERV</item>
+        <item>PTT-GDIGI e DINED</item>
+        <item>PTT-PESEC</item>
+        <item>PTT-Plat Crédito</item>
+        <item>PTT-Plat Gestão</item>
+    </string-array>
+
+    <string-array name="modalidades_array">
+        <item>Basquete</item>
+        <item>Buraco</item>
+        <item>Corrida</item>
+        <item>Dominó</item>
+        <item>Futebol Digital</item>
+        <item>Futebol Society</item>
+        <item>Futevôlei</item>
+        <item>Futsal</item>
+        <item>Natação</item>
+        <item>Pebolim</item>
+        <item>Pôquer</item>
+        <item>Queimada</item>
+        <item>Sinuca</item>
+        <item>Tênis</item>
+        <item>Tênis de Mesa</item>
+        <item>Truco</item>
+        <item>Vôlei de Areia 4x4</item>
+        <item>Vôlei de Areia Duplas</item>
+        <item>Vôlei de Quadra</item>
+        <item>Xadrez Oficial e Relâmpago</item>
+    </string-array>
+    <string-array name="submodalidades_array">
+        <item>Basquete Feminino</item>
+        <item>Basquete Masculino</item>
+        <item>Buraco Duplas</item>
+        <item>Corrida Feminina</item>
+        <item>Corrida Masculina</item>
+        <item>Dominó Duplas</item>
+        <item>Futebol Digital Individual</item>
+        <item>Futebol Digital Equipe</item>
+        <item>Futebol Society Masculino Equipe</item>
+        <item>Futevôlei Masculino Dupla</item>
+        <item>Futsal Feminino Equipe</item>
+        <item>Natação Masculino Equipe</item>
+        <item>Natação Feminino Equipe</item>
+        <item>Pebolim Dupla</item>
+        <item>Pôquer Individual</item>
+        <item>Pôquer Equipe</item>
+        <item>Queimada Feminino Equipe</item>
+        <item>Sinuca Individual</item>
+        <item>Sinuca Dupla</item>
+        <item>Tênis Masculino Dupla</item>
+        <item>Tênis Feminido Dupla</item>
+        <item>Tênis de Mesa Masculino Dupla</item>
+        <item>Tênis de Mesa Feminino Dupla</item>
+        <item>Truco Dupla</item>
+        <item>Vôlei de Areia 4x4 Feminino Equipe</item>
+        <item>Vôlei de Areia Duplas Masculino Dupla</item>
+        <item>Vôlei de Quadra Masculino Equipe</item>
+        <item>Xadrez Oficial e Relâmpago Individual</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "414822698563",
+    "firebase_url": "https://mini-olimpiadas.firebaseio.com",
+    "project_id": "mini-olimpiadas",
+    "storage_bucket": "mini-olimpiadas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414822698563:android:9d03870fabac1339",
+        "android_client_info": {
+          "package_name": "tech.linard.miniolimpadasditec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414822698563-vvtiio10m17dphsb0k5l0rhb9vu2l6pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.linard.miniolimpadasditec",
+            "certificate_hash": "83cfd82da062b27787648890b06f7c89c89aaa7f"
+          }
+        },
+        {
+          "client_id": "414822698563-5q8map5sdi7c1tt25vpktneja08pomrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5MNn82DPqL7u3rPOBqoESiNngbPDt7PM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414822698563-5q8map5sdi7c1tt25vpktneja08pomrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414822698563:android:d8668776a1d6a9fe",
+        "android_client_info": {
+          "package_name": "tech.linard.miniolimpiadasditec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414822698563-80prn6gkqrrv15dptrulv3nc4100l07u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.linard.miniolimpiadasditec",
+            "certificate_hash": "83cfd82da062b27787648890b06f7c89c89aaa7f"
+          }
+        },
+        {
+          "client_id": "414822698563-5q8map5sdi7c1tt25vpktneja08pomrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5MNn82DPqL7u3rPOBqoESiNngbPDt7PM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414822698563-5q8map5sdi7c1tt25vpktneja08pomrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
